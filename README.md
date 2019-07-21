@@ -1,2 +1,2 @@
 # HW-Wireframe
-Week 1 easier homework
+Week 1 homework
