@@ -1,5 +1,5 @@
 # HW-Wireframe
-Week 1 homework
+Week 1 Wireframe project
 
-It's **[link to my HW-Wireframe easier one](https://supercarboy88.github.io/HW-Wireframe/)**
+It's **[link to my Wireframe project](https://supercarboy88.github.io/HW-Wireframe/)**
 
